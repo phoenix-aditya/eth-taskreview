@@ -7,7 +7,7 @@ Orci dapibus ultrices in iaculis nunc sed augue lacus. Fringilla est ullamcorper
 Ornare aenean euismod elementum nisi quis eleifend quam. Aliquam faucibus purus in massa tempor. Senectus et netus et malesuada fames ac. Platea dictumst vestibulum rhoncus est pellentesque. Nibh mauris cursus mattis molestie. Magna fermentum iaculis eu non diam phasellus vestibulum. Suspendisse potenti nullam ac tortor. Vitae congue eu consequat ac felis donec et. Gravida arcu ac tortor dignissim convallis aenean et tortor. Auctor neque vitae tempus quam pellentesque nec nam. Id ornare arcu odio ut sem nulla. Ultricies tristique nulla aliquet enim tortor. Posuere morbi leo urna molestie at elementum eu facilisis. Hendrerit gravida rutrum quisque non tellus orci ac. Elementum nisi quis eleifend quam adipiscing vitae proin.
 Feugiat in fermentum posuere urna nec tincidunt praesent semper. Condimentum id venenatis a condimentum vitae sapien pellentesque habitant. In arcu cursus euismod quis viverra nibh cras pulvinar. Leo vel orci porta non pulvinar. In ornare quam viverra orci. Risus in hendrerit gravida rutrum quisque non. Morbi tristique senectus et netus. Quam elementum pulvinar etiam non quam lacus. Cursus vitae congue mauris rhoncus aenean. Tortor posuere ac ut consequat. Platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper.`;
 
-const storyContractAddress = "0x1cAA5C768C6B6d84C7ec8f6a55ca1c0cE2cE0c95";
+const storyContractAddress = "0x6B4874d46e36605c44c044fbf42A32572ee11EF3";
 //theirs- 0x5bd7e290081268dd81b7c73243e2a9d00d02c405
 //ours- 0x720D3E2bbA02C9C5CdE7Eecdb9C82202329b3bA6
 

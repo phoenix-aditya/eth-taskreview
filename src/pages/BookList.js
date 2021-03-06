@@ -21,7 +21,50 @@ const bookImages = [
 
 const RenderBooksCard = ({ listOfBooks }) => {
   return listOfBooks.length === 0 ? (
-    <h1>no tasks found</h1>
+    <table>
+      <tr>
+        <th>
+          task id  &nbsp;   
+        </th>
+        <th>
+          employee name &nbsp;    
+        </th>
+        <th>
+          employee id &nbsp;
+        </th>
+        <th>
+          boosted &nbsp;
+        </th>
+      </tr>
+      <tr>
+        <th>
+          1364
+        </th>
+        <th>
+          porv
+        </th>
+        <th>
+          420
+        </th>
+        <th>
+          0/5
+        </th>
+      </tr>
+      <tr>
+        <th>
+          1375
+        </th>
+        <th>
+          vaibhav
+        </th>
+        <th>
+          423
+        </th>
+        <th>
+          1/5
+        </th>
+      </tr>
+    </table>
   ) : (
     listOfBooks.map((book, index) => (
       <Col key={book.id} xs={{ span: 24 }} sm={{ span: 8 }} lg={{ span: 4 }}>
