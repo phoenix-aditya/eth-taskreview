@@ -35,10 +35,10 @@ every task can be boosted by upto 5 people thus supporting the quality of work i
 
 ### FrontEnd of Project
 
-![l](https://github.com/phoenix-aditya/eth-taskreview/blob/master/readmeassets/2.png)
-![l](https://github.com/phoenix-aditya/eth-taskreview/blob/master/readmeassets/3.png)
-![l](https://github.com/phoenix-aditya/eth-taskreview/blob/master/readmeassets/4.png)
-![l](https://github.com/phoenix-aditya/eth-taskreview/blob/master/readmeassets/5.png)
+![l](readmeassets/2.png)
+![l](readmeassets/3.png)
+![l](readmeassets/4.png)
+![l](readmeassets/5.png)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
