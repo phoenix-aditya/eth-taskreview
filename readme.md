@@ -23,7 +23,7 @@ every task can be boosted by upto 5 people thus supporting the quality of work i
 
 ### truffle migrations and contract deployment
 
-![l](https://github.com/phoenix-aditya/eth-taskreview/blob/master/readmeassets/1.png)
+![l](readmeassets/1.png)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
